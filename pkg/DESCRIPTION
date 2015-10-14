@@ -1,7 +1,7 @@
 Package: ecotoxicology
 Type: Package
 Title: Methods for Ecotoxicology
-Version: 1.0.0
+Version: 1.0.1
 Encoding: UTF-8
 Authors@R: c(person(given = "Jose", family = "Gama", role = c("aut","cre","trl"),email = "rxprtgama@gmail.com"))
 Description: Implementation of the EPA's Ecological Exposure Research Division (EERD) tools (discontinued in 1999) for Probit and Trimmed Spearman-Karber Analysis.
